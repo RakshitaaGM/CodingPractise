@@ -31,6 +31,7 @@
 // Time : O(mn)
 // Space : O(mn)
 ///////////////////////////////////////////////////////////////////
+Approach : https://leetcode.com/problems/number-of-islands/discuss/2575115/c%2B%2B-oror-2-approaches-bfs-and-dfs
 class Solution {
 public:
     void bfs(int r, int c, vector<vector<bool>>& vis, vector<vector<char>> grid)
