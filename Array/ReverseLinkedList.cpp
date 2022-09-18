@@ -13,7 +13,7 @@
 // Declare prec,curr,next. Make curr->next poitn to prev
 // Solution complexity
 // Time : O(n)
-//Space : O(n)
+//Space : O(1)
 ///////////////////////////////////////////////////////////////////
 /**
  * Definition for singly-linked list.
