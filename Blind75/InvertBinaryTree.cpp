@@ -9,6 +9,10 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+// key learnings
+// Used recursive
+// Had to check whether the lft or right node is null or not
+// Had to check whetehr the root node is null or not
 class Solution {
 public:
     TreeNode* invertTree(TreeNode* root) {
